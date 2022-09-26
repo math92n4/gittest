@@ -22,6 +22,6 @@ public class Main {
         System.out.println("Vi har time om 10 minutter");
 
         System.out.println("Jeg elsker mandag. haha joke lol");
-
+        System.out.println("Jeg elsker skole <3 hehe, hader at slappe af");
     }
 }
