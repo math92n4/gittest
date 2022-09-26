@@ -20,5 +20,7 @@ public class Main {
         System.out.println("Der er: " + antalTal + "I dit fornavn! ");
 
         System.out.println("Vi har time om 10 minutter");
+
+        System.out.println("Hello world");
     }
 }
