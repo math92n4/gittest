@@ -13,5 +13,11 @@ public class Main {
         int b = 22;
         int result = a+b;
         System.out.println(result);
+
+        System.out.println("Hvor mange bogstaver er der i dit fornavn?: ");
+        int antalTal = scanner.nextInt();
+
+        System.out.println("Der er: " + antalTal + "I dit fornavn! ");
+
     }
 }
